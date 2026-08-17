@@ -29,7 +29,6 @@ public class FishingRcblock implements ModInitializer {
 	public FishingRcblock() {
 		messages.add("You caught a Carrot King!");
 		messages.add("You caught a Water Hydra!");
-		messages.add("Sending to server");
 	}
 
 
