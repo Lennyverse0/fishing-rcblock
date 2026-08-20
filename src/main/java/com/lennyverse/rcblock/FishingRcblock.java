@@ -27,8 +27,8 @@ public class FishingRcblock implements ModInitializer {
 	private boolean canUseItem = true;
 
 	public FishingRcblock() {
-		messages.add("You caught a Carrot King!");
-		messages.add("You caught a Water Hydra!");
+		messages.add("Carrot King");
+		messages.add("Water Hydra");
 	}
 
 
